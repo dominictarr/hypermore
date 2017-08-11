@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "mutant": "^3.21.2",
-    "pull-obv": "^1.1.0"
+    "pull-obv": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
