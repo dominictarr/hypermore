@@ -1,6 +1,6 @@
 {
   "name": "hypermore",
-  "description": "",
+  "description": "load more elements when you hit a 'show more' button",
   "version": "1.0.0",
   "homepage": "https://github.com/dominictarr/hypermore",
   "repository": {
