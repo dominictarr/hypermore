@@ -1,8 +1,8 @@
 var h = require('mutant/h')
 var PullObv = require('pull-obv')
 
-function More(reduce, stream, render) {
-  var obv = PullObv(reduce, stream)
+function More(reduce, stream, render, initial) {
+  var obv = PullObv(reduce, stream, initial)
   var nextScreen = window.innerHeight
   var el
   function _obv (fn) {
